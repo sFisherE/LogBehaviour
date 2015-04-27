@@ -1,0 +1,4 @@
+# LogBehaviour
+将log记录到脚本上，可以在Inspector上直接查看，便于调试
+
+基本原理还是利用PropertyDrawer来绘制log
